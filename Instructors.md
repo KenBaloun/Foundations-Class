@@ -1,3 +1,3 @@
 # Instructors
-## Josh
-## Jordan
+  * Josh
+
